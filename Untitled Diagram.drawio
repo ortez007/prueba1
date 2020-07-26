@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2020-07-26T03:53:46.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" version="13.5.3" etag="jsjNpasx-FKoVbWWr-x7" type="github"><diagram id="-865ca0yEg2mXqJmYH0A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-26T04:19:04.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="03e2ZSEZeBriu8YZTRJl" version="13.5.3" type="github">
+  <diagram id="-865ca0yEg2mXqJmYH0A" name="Page-1">
+    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-1" value="Procedimiento para fotografía de celular" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="289" y="10" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-2" value="" style="endArrow=classic;html=1;exitX=0.452;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;entryX=0.428;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-1" target="3RqEmS-VzWkHdVHI7DkY-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="110" as="sourcePoint" />
+            <mxPoint x="402" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-3" value="Sacar el celular del bolsillo." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-4" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=0.472;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-3" target="3RqEmS-VzWkHdVHI7DkY-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="408" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-5" target="3RqEmS-VzWkHdVHI7DkY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-5" value="Desbloquear celular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-6" value="Tipo de desbloqueo" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-8" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-6" target="3RqEmS-VzWkHdVHI7DkY-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="390" as="sourcePoint" />
+            <mxPoint x="400" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-9" value="Reconocimiento facial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-11" value="PIN de acceso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-15" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-6" target="3RqEmS-VzWkHdVHI7DkY-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="200" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-16" value="Huella digital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-17" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-6" target="3RqEmS-VzWkHdVHI7DkY-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289" y="450" as="sourcePoint" />
+            <mxPoint x="339" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-18" target="3RqEmS-VzWkHdVHI7DkY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-18" value="OPCIONAL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-21" value="Seleccionar menú" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-22" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-5" target="3RqEmS-VzWkHdVHI7DkY-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="280" as="sourcePoint" />
+            <mxPoint x="420" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-23" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-21" target="3RqEmS-VzWkHdVHI7DkY-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="210" as="sourcePoint" />
+            <mxPoint x="520" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-24" target="3RqEmS-VzWkHdVHI7DkY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-24" value="Buscar y Seleccionar la aplicación de cámara" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-25" target="3RqEmS-VzWkHdVHI7DkY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-25" target="3RqEmS-VzWkHdVHI7DkY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-25" target="3RqEmS-VzWkHdVHI7DkY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-25" value="Elegir formato y clase de fotografía" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="100" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-27" value="Cámara frontal" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="735" y="300" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-29" value="Cámara trasera" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="145" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-31" value="Ancho de fotograma para fotografía" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-34" value="" style="endArrow=classic;html=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-25" target="3RqEmS-VzWkHdVHI7DkY-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="330" as="sourcePoint" />
+            <mxPoint x="920" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-35" value="Poner una pose perfecta y luego presionar el botón para tomar la fotografía" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="390" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-36" value="En caso de salir errónea" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-37" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-35" target="3RqEmS-VzWkHdVHI7DkY-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="320" as="sourcePoint" />
+            <mxPoint x="660" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-38" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.936;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3RqEmS-VzWkHdVHI7DkY-36" target="3RqEmS-VzWkHdVHI7DkY-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="320" as="sourcePoint" />
+            <mxPoint x="660" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RqEmS-VzWkHdVHI7DkY-39" value="empezar de nuevo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=75;" vertex="1" parent="1">
+          <mxGeometry x="620" y="320" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
